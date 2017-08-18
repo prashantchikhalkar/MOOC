@@ -9,4 +9,4 @@ Not all browsers support newer CSS features, like opacity or HSL, so additional 
 There are many color picker resources available on the Internet to help you select specific colors, as well as provide colors in different formats
 
 Fonts : 
-
+Serif and sans serif
