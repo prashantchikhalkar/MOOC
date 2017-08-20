@@ -1,4 +1,6 @@
-Colors : 
+Review : 
+
+1) Colors : 
 Foreground color refers to the actual color of an element, styled with the color property.
 Background color refers to the color behind an element, styled with the background-color property.
 There are 147 named colors available.
@@ -8,5 +10,5 @@ You can modify the opacity of a color with RGBa or HSLa colors.
 Not all browsers support newer CSS features, like opacity or HSL, so additional declarations should be made to support a wide audience of users.
 There are many color picker resources available on the Internet to help you select specific colors, as well as provide colors in different formats
 
-Fonts : 
+2) Fonts : 
 Serif and sans serif
