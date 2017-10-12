@@ -1,5 +1,6 @@
 # MOOC
-Repo for all the online courses I have completed
+Repo for all the online courses I have completed or persuing
+
 a) codecademy
 
     i)    Learn HTML
