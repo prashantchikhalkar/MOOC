@@ -10,4 +10,6 @@ A document written in plain English is easy to read, understand, and act upon af
 
 https://www.lynda.com/Business-Skills-tutorials/Writing-Plain-English/373555-2.html
 
-Readibility index
+readability index
+
+Make writing clear and plain.           
