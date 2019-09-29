@@ -10,3 +10,6 @@ Notes :
 	SEBI 
 	
 1.3 : Financial Intermediaries
+
+-> Modules Completed : 
+	-> Stock Market Basics.
