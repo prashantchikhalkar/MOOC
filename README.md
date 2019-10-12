@@ -12,3 +12,7 @@ a) codecademy
 b) coursera
 
     i) Bitcoin-and-Cryptocurrency-Technologies-by-Princeton-University
+
+c) LinkedIn Learning
+
+    i) 
