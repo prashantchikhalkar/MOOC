@@ -12,6 +12,7 @@ a) codecademy
 b) coursera
 
     i) Bitcoin-and-Cryptocurrency-Technologies-by-Princeton-University
+    ii) Science of well being.
 
 c) LinkedIn Learning
 
