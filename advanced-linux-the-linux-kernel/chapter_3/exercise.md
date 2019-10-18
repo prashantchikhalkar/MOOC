@@ -40,6 +40,29 @@ We are working with Linux kernel code. Bad things can happen. It is best to do t
   
   • Did my_cleanup_module() ever get called?
 
+$ cat lab.c
+/*  
+ *  lab.c - The simplest kernel module.
+ */
+#include <linux/module.h>	/* Needed by all modules */
+#include <linux/kernel.h>	/* Needed for KERN_INFO */
+#include <linux/sched.h> /**/
+
+int my_init_module(void)
+{
+	printk(KERN_INFO "lab kernel module inserted\n");
+
+	/* 
+	 * A non 0 return means init_module failed; module can't be loaded. 
+	 */
+	return 0;
+}
+
+void my_cleanup_module(void)
+{
+	printk(KERN_INFO "lab kernel module removed\n");
+}
+
 
 2. Experiment with embedded documentation. 
   
