@@ -49,9 +49,22 @@ We are working with Linux kernel code. Bad things can happen. It is best to do t
 	#include <linux/kernel.h>       /* Needed for KERN_INFO */
 	#include <linux/sched.h>        /**/
 
+	MODULE_LICENSE ("GPL");
+	MODULE_AUTHOR ("Prashant Chikhalkar");
+	MODULE_DESCRIPTION ("Simple Linux Kernel Module");
+	MODULE_VERSION ("0.1");
+
+	static int number = 3;
+	module_param (number, int, 0);
+	MODULE_PARM_DESC (number, "number");
+
+	static char *word = "Exercise";
+	module_param (word, charp, 0);
+	MODULE_PARM_DESC (word, "string");
+
 	int my_init_module(void)
 	{
-		printk(KERN_INFO "lab kernel module inserted\n");
+		printk(KERN_INFO "%s %d lab kernel module inserted\n", word, number);
 
 		/**
 		 * A non 0 return means init_module failed; module can't be loaded.
@@ -66,7 +79,6 @@ We are working with Linux kernel code. Bad things can happen. It is best to do t
 
 	module_init (my_init_module);
 	module_exit (my_cleanup_module);
-
 
 2. Experiment with embedded documentation. 
   
