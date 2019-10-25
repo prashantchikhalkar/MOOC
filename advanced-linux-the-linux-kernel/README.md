@@ -10,6 +10,6 @@ advanced-linux-the-linux-kernel - Linkedin MOOC
 
   -> 4 - Examining Linux Kernel Source Code -> Complete.
   
-  -> 5 - Configuring and Building a Linux Kernel -> In Progress.
+  -> 5 - Configuring and Building a Linux Kernel -> Complete..
 
 -> Course finished.
