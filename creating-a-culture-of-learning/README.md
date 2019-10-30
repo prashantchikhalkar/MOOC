@@ -2,7 +2,11 @@ https://www.linkedin.com/learning/creating-a-culture-of-learning/role-of-l-d-and
 
 Chapter_1 -> Completed.
 
+  -> Exercise complete.
+
 Chapter_2 -> Completed.
+
+  -> Exercise complete.
 
 Chapter_3 -> In progress.
 
