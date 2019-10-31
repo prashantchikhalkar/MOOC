@@ -9,5 +9,8 @@ Chapter_2 -> Completed.
   -> Exercise complete.
 
 Chapter_3 -> In progress.
+  -> Exercise - TBD.
 
 CHapter_4 -> TBD
+
+  -> Exercise - TBD.
