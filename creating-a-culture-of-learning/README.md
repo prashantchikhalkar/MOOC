@@ -8,10 +8,11 @@ Chapter_2 -> Completed.
 
   -> Exercise complete.
 
-Chapter_3 -> In progress.
-  -> Exercise - TBD.
+Chapter_3 -> Completed.
 
-CHapter_4 -> TBD
+  -> Exercise - Completed.
+
+CHapter_4 -> In Progress.
 
   -> Exercise - TBD.
 
