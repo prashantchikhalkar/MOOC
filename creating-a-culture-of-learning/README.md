@@ -12,8 +12,8 @@ Chapter_3 -> Completed.
 
   -> Exercise - Completed.
 
-CHapter_4 -> In Progress.
+CHapter_4 -> Completed.
 
-  -> Exercise - TBD.
+  -> Exercise - Completed.
 
 Conclusion -> 
