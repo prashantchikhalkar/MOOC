@@ -16,4 +16,4 @@ CHapter_4 -> Completed.
 
   -> Exercise - Completed.
 
-Conclusion -> 
+Conclusion -> Course complete.
