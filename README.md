@@ -16,7 +16,7 @@ b) coursera
 
 c) LinkedIn Learning
 
-    i) 
+    i) advanced-linux-the-linux-kernel
 
 -> Self 
     -> LxContainersVirtualization
