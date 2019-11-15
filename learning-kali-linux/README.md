@@ -8,4 +8,6 @@ Sectio 1 : Setting up virtual lab.
   
   -> Install Kali in vm
 
-Section 2 - Intorducing Kali
+Section 2 - Intorducing Kali - Completed
+
+Section 3 -
