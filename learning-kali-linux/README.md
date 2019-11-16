@@ -10,4 +10,8 @@ Sectio 1 : Setting up virtual lab.
 
 Section 2 - Intorducing Kali - Completed
 
-Section 3 -
+Section 3 - Information Gathering (Understanding the target) - Completed
+  
+    -> dimitry, dnsenum, multigo
+    
+Section 4 - Vulnerability Analysis
