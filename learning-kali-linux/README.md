@@ -17,4 +17,5 @@ Section 3 - Information Gathering (Understanding the target) - Completed
     -> dimitry, dnsenum, multigo
     
 Section 4 - Vulnerability Analysis - In progress.
-  -> video lectures 
+ 
+ -> video lectures - in progress
