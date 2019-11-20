@@ -19,3 +19,5 @@ Section 3 - Information Gathering (Understanding the target) - Completed
 Section 4 - Vulnerability Analysis - In progress.
  
  -> video lectures - in progress
+ 
+ -> Reviewing the tools.
