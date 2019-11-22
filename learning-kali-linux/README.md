@@ -21,3 +21,5 @@ Section 4 - Vulnerability Analysis - In progress.
  -> video lectures - in progress
  
  -> Reviewing the tools. - In progress
+ 
+  -> Nikto
