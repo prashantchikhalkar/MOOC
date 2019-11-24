@@ -22,4 +22,4 @@ Section 4 - Vulnerability Analysis - In progress.
  
  -> Reviewing the tools. - In progress
  
-  -> Nikto - in progress
+ -> Nikto - in progress
