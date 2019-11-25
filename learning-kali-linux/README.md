@@ -22,4 +22,6 @@ Section 4 - Vulnerability Analysis - In progress.
  
  -> Reviewing the tools. - In progress
  
- -> Nikto - in progress
+  -> Nikto - completed - using nikto to check webserver for vulnerabilities.
+  
+  -> openvas - In progress
