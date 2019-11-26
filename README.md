@@ -20,3 +20,4 @@ c) LinkedIn Learning
 
 -> Self 
     -> LxContainersVirtualization
+    -> https://www.recurse.com/blog/5-learning-c-with-gdb
