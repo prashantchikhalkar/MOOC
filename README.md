@@ -24,3 +24,5 @@ c) LinkedIn Learning
     -> https://www.recurse.com/blog/5-learning-c-with-gdb - Completed
 
     -> https://www.recurse.com/blog/7-understanding-c-by-learning-assembly -- In progress
+
+    -> Explore cloud mooc
