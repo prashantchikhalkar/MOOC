@@ -7,4 +7,4 @@ learning-cloud-computing-core-concepts
     -> Exercise complete.
 
 
--> 2 - Cloud computing planning - In progress.
+-> 2 - Cloud computing planning - Completed.
