@@ -8,3 +8,5 @@ learning-cloud-computing-core-concepts
 
 
 -> 2 - Cloud computing planning - Completed.
+
+-> Course complete
