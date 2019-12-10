@@ -30,3 +30,7 @@ c) LinkedIn Learning
     -> how-to-install-and-use-docker-on-ubuntu-18-04
     
         -> The Docker Ecosystem
+    
+    -> Start learning StarlingX 
+        
+        -> https://docs.starlingx.io/deploy_install_guides/r2_release/index.html
