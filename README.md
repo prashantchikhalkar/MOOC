@@ -36,3 +36,6 @@ c) LinkedIn Learning
     -> Start learning StarlingX 
         
         -> https://docs.starlingx.io/deploy_install_guides/r2_release/index.html
+
+    -> using RCP in linux - http://people.redhat.com/kzak/docs/rsh-rlogin-howto.html
+    
