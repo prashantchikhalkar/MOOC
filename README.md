@@ -42,3 +42,5 @@ c) LinkedIn Learning
     -> using RCP in linux - http://people.redhat.com/kzak/docs/rsh-rlogin-howto.html
     
     -> Openstack -- In progress
+
+    -> https://github.com/jpetazzo/container.training
