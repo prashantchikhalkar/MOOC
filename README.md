@@ -43,4 +43,8 @@ c) LinkedIn Learning
     
     -> Openstack -- In progress
 
-    -> https://github.com/jpetazzo/container.training - in progress - 100/400 slides.
+    -> https://github.com/jpetazzo/container.training - in progress - 180/400 slides.
+        
+        -> Dockerfile
+        
+        
