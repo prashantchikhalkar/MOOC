@@ -1,6 +1,12 @@
 2-ethics-and-investment-professionalism    
 
 CHAPTER REVIEW QUESTIONS    
+-> First Attempt, correct answer
+---> Corrected answer.
+
+Result : Total Questions 17
+Correct : 16
+Incorrect : 1
 
 Maintaining high ethical standards in the investment industry will most likely result in:    
 A decreased market efficiency.    
@@ -23,7 +29,7 @@ B accept and diligently complete any assigned task.
 C balance their personal interests with their employer’s interests.     
 
 5 If the required structural and procedural controls have not been established, then an employee should:    
-A refrain from assuming supervisory duties.    
+--->A refrain from assuming supervisory duties.    
 -> B notify the appropriate regulatory authorities.    
 C perform their supervisory duties with utmost care.    
 
@@ -63,9 +69,9 @@ B long-term growth expectations for the economy.
 -> C cost of capital for those companies requiring capital.    
 
 13 The last step in an ethical decision-making process should be to:    
-A assess how a decision turned out and learn from it.    
+-> A assess how a decision turned out and learn from it.    
 B assess how others might view a possible course of action.    
--> C determine whether the decision is affected by outside factors.    
+C determine whether the decision is affected by outside factors.    
 
 14 A breach of ethical standards most likely results in:    
 A higher public trust.     
@@ -83,6 +89,6 @@ B only companies seeking capital in financial markets.
 -> C the investment industry, companies seeking capital in financial markets, and the overall economy.    
 
 17 Which of the following best describes an internal factor that could affect judgment in ethical decisions?    
--> A Incentives    
-B Rationalization    
+A Incentives    
+-> B Rationalization    
 C Authority figures    
