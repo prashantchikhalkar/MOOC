@@ -6,7 +6,7 @@ First Attempt,
 ---> Corrected answer.    
 
 Result :     
-Total Questions       
+Total Questions : 17       
 Correct :        
 Incorrect :     
 
