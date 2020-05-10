@@ -10,10 +10,10 @@ Total Questions : 17
 Correct :        
 Incorrect :     
 
-1 Consequences are most severe for market participants who violate which of the following?
-A Regulations
-B Ethical principles
-C Professional standards
+1 Consequences are most severe for market participants who violate which of the following?    
+A Regulations    
+B Ethical principles     
+C Professional standards    
 
 2 Regulations that affect the financial services industry are most likely needed because:
 A power is equally distributed among industry participants.
