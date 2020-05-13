@@ -1,5 +1,19 @@
 CHAPTER 3 REGULATION
 
+Notes : 
+
+-> LEARNING OUTCOMES    
+a Define regulations;    
+b Describe objectives of regulation;     
+c Describe potential consequences of regulatory failure;     
+d Describe a regulatory process and the importance of each step in the
+process;     
+e Identify specific types of regulation and describe the reasons for each;     
+f Describe elements of a company’s policies and procedures to ensure the
+company complies with regulation;     
+g Describe potential consequences of compliance failure.     
+
+
 CHAPTER REVIEW QUESTIONS    
 First Attempt,     
 -> correct answer      
