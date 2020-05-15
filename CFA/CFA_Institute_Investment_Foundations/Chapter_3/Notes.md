@@ -1,6 +1,8 @@
 CHAPTER 3 REGULATION
 
 Notes : 
+Reading in progress.
+Need to catch up to make up for missed deadline.
 
 -> LEARNING OUTCOMES    
 a Define regulations;    
