@@ -16,6 +16,8 @@ company complies with regulation;
 g Describe potential consequences of compliance failure.     
 
 
+-> 4.1 Classification of Regulatory Regimes - In Progress.
+
 CHAPTER REVIEW QUESTIONS    
 First Attempt,     
 -> correct answer      
