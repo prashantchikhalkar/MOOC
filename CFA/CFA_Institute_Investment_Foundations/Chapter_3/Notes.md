@@ -16,17 +16,12 @@ company complies with regulation;
 g Describe potential consequences of compliance failure.     
 
 
--> 4.1 Classification of Regulatory Regimes - Done.
--> 5 TYPES OF FINANCIAL MARKET REGULATION - In progress
-  Rules : 
-  ■ Gatekeeping rules
-  ■ Operations rules
-  ■ Disclosure rules
-  ■ Sales practice rules
-  ■ Trading rules
-  ■ Proxy voting rules
-  ■ Anti-money-laundering rules
-  ■ Business continuity rules
+-> 1 Introduction       
+-> 2 OBJECTIVES OF REGULATION        
+-> 3 CONSEQUENCES OF REGULATORY FAILURE      
+-> 4 A TYPICAL REGULATORY PROCESS - Done.      
+-> 5 TYPES OF FINANCIAL MARKET REGULATION - Done.      
+-> 6 COMPANY POLICIES AND PROCEDURES - In progress.      
 
 CHAPTER REVIEW QUESTIONS    
 First Attempt,     
