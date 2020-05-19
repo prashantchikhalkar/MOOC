@@ -22,6 +22,7 @@ g Describe potential consequences of compliance failure.
 -> 4 A TYPICAL REGULATORY PROCESS - Done.      
 -> 5 TYPES OF FINANCIAL MARKET REGULATION - Done.      
 -> 6 COMPANY POLICIES AND PROCEDURES - In progress.      
+-> 7 CONSEQUENCES OF COMPLIANCE FAILURE
 
 CHAPTER REVIEW QUESTIONS    
 First Attempt,     
