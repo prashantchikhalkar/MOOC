@@ -17,12 +17,12 @@ g Describe potential consequences of compliance failure.
 
 
 -> 1 Introduction       
--> 2 OBJECTIVES OF REGULATION        
--> 3 CONSEQUENCES OF REGULATORY FAILURE      
+-> 2 OBJECTIVES OF REGULATION - Done       
+-> 3 CONSEQUENCES OF REGULATORY FAILURE - Done      
 -> 4 A TYPICAL REGULATORY PROCESS - Done.      
 -> 5 TYPES OF FINANCIAL MARKET REGULATION - Done.      
--> 6 COMPANY POLICIES AND PROCEDURES - In progress.      
--> 7 CONSEQUENCES OF COMPLIANCE FAILURE
+-> 6 COMPANY POLICIES AND PROCEDURES - Done.            
+-> 7 CONSEQUENCES OF COMPLIANCE FAILURE - Done      
 
 CHAPTER REVIEW QUESTIONS    
 First Attempt,     
@@ -31,8 +31,8 @@ First Attempt,
 
 Result :     
 Total Questions : 17       
-Correct :        
-Incorrect :     
+Correct : 13       
+Incorrect : 4     
 
 1 Consequences are most severe for market participants who violate which of the following?    
 -> A Regulations    
@@ -70,14 +70,14 @@ B Only failure to enforce regulation
 -> C Both inadequate regulation and failure to enforce regulation          
 
 8 The step in the regulatory process at which regulators weigh the costs and benefits of a proposed regulation is the:          
-A analysis.        
--> B identification of perceived need.            
+---> A analysis.        
+B identification of perceived need.            
 C dispute resolution process.           
 
 9 In establishing a merit-based rule, regulators are most likely to:             
-A restrict access to specific products deemed to be risky.            
+---> A restrict access to specific products deemed to be risky.            
 B mandate disclosure of information relevant to decision making.           
--> C establish broad principles within which the industry is expected to operate.        
+C establish broad principles within which the industry is expected to operate.        
 
 10 Which of the following is most likely the first step in a typical regulatory process?             
 A Public consultation           
@@ -96,8 +96,8 @@ C taking actions intended to move the price of a security to generate a short-te
 
 13 Regulations that require large financial firms to create virtual and physical barriers between investment banking activities and research activities are examples of:         
 A trading rules.          
--> B gatekeeping rules.           
-C sales practice rules.        
+B gatekeeping rules.           
+---> C sales practice rules.        
 
 14 Regulations that attempt to prevent market manipulation are examples of:            
 -> A trading rules.         
@@ -110,7 +110,7 @@ A promote economic growth and stability.
 C set standards for employee conduct that carry the force of law.        
 
 16 With respect to corporate policies and procedures, when should supervision of employees begin?           
--> A Before an employee is hired          
+---> Before an employee is hired          
 B During an employee’s orientation           
 C During an employee’s job training             
 
