@@ -30,8 +30,8 @@ First Attempt,
 ---> Corrected answer.    
 
 Result :     
-Total Questions : 17       
-Correct : 13       
+Total Questions : 18       
+Correct : 14       
 Incorrect : 4     
 
 1 Consequences are most severe for market participants who violate which of the following?    
