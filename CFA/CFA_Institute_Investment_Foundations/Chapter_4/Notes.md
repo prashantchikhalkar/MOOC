@@ -17,3 +17,6 @@ and describe the effect of fixed costs on profitability;
 j Identify factors that affect pricing;      
 k Compare types of market environment: perfect competition, pure       
 monopoly, monopolistic competition, and oligopoly.        
+
+1 INTRODUCTION      
+2 DEMAND AND SUPPLY - In progess.      
