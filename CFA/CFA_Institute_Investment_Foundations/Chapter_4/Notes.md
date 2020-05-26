@@ -19,5 +19,5 @@ k Compare types of market environment: perfect competition, pure
 monopoly, monopolistic competition, and oligopoly.        
 
 1 INTRODUCTION      
-2 DEMAND AND SUPPLY - In progess.      
-3 ELASTICITIES OF DEMAND
+2 DEMAND AND SUPPLY - Done.      
+3 ELASTICITIES OF DEMAND - In progress.
