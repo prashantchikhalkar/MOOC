@@ -20,4 +20,5 @@ monopoly, monopolistic competition, and oligopoly.
 
 1 INTRODUCTION      
 2 DEMAND AND SUPPLY - Done.      
-3 ELASTICITIES OF DEMAND - In progress.
+3 ELASTICITIES OF DEMAND - In progress.      
+  -> 3.1 Price Elasticity of Demand       
