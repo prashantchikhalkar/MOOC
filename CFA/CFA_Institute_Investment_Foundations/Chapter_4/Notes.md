@@ -23,4 +23,6 @@ monopoly, monopolistic competition, and oligopoly.
 3 ELASTICITIES OF DEMAND - Done.      
   -> 3.1 Price Elasticity of Demand       
   -> 3.2 Income Elasticity of Demand     
-4 PROFIT AND COSTS OF PRODUCTION
+4 PROFIT AND COSTS OF PRODUCTION - Done         
+  -> **Opportunity cost** : An opportunity cost is the value forgone by choosing a particular course of action relative to the best alternative that is not chosen.                  
+  -> **law of diminishing returns** : The law of diminishing marginal returns states that adding an additional factor of production results in smaller increases in output.          
