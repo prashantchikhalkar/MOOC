@@ -28,4 +28,6 @@ monopoly, monopolistic competition, and oligopoly.
   -> **law of diminishing returns** : The law of diminishing marginal returns states that adding an additional factor of production results in smaller increases in output.          
 
 5 PRICING - Done.     
-6 MARKET ENVIRONMENT - In Progress.
+6 MARKET ENVIRONMENT - Done.
+
+CHAPTER REVIEW QUESTIONS - TBD
