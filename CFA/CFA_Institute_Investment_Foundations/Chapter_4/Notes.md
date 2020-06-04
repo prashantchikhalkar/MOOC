@@ -31,3 +31,76 @@ monopoly, monopolistic competition, and oligopoly.
 6 MARKET ENVIRONMENT - Done.
 
 CHAPTER REVIEW QUESTIONS - TBD
+
+Total Questions : 14       
+Correct : 11     
+Incorrect : 3     
+
+1 Economics is the study of:       
+A an economy as a whole.      
+--> B choices in the presence of limited or scarce resources.      
+-> C how individuals and companies make decisions to allocate limited resources.      
+
+2 If the price of chocolate increases, the quantity of chocolate demanded will most likely:      
+A increase.      
+-> B decrease.      
+C remain unchanged.      
+
+3 Which of the following would most likely cause a steel manufacturer to increase the quantity supplied? An increase in:      
+A input costs.      
+B corporate taxes.       
+-> C the price of steel.      
+
+4 If consumers demand more of a good than sellers find profitable to produce, then sellers’ inventories will tend to:       
+-> A deplete.      
+B pile up.      
+C remain unchanged.      
+
+5 Holding all other factors constant, if the price of a product increases, the demand for a substitute product is most likely to:      
+-> A increase.      
+B decrease.    
+C remain unchanged.        
+
+6 Holding all other factors constant, if the demand for printers increases, the demand for ink cartridges is most likely to:       
+-> A increase.       
+B decrease.       
+C remain unchanged.       
+
+7 Market equilibrium is a state in the market when, at a particular price and with all other factors remaining unchanged, no buyer or seller has any incentive or desire to change the:        
+A quality of a product that is demanded or supplied.       
+B market for a product that is demanded or supplied.       
+-> C quantity of a product that is demanded or supplied.       
+
+8 Which of the following statements best describes price inelasticity? A small change in price produces a:           
+A proportional change in demand.          
+-> B less than proportional change in demand.          
+C disproportionally larger change in demand.           
+
+9 If revenues decrease when the price of a good increases, the price elasticity of this good is most likely:               
+-> A elastic.           
+B inelastic.            
+C unit elastic.          
+
+10 For a particular period, a golf course generated revenues of $10,000,000 and incurred costs of $5,000,000. In addition, the implicit costs were $1,000,000. The accounting profit is most likely:            
+A lower than the economic profit.          
+B the same as the economic profit.             
+-> C higher than the economic profit.             
+
+11 Which of the following costs is most likely a variable cost for a manufacturing plant?             
+-> A Energy costs            
+B Interest expense            
+C Insurance expense               
+
+12 Which of the following statements best describes the effect of lower production on a manufacturing plant’s costs per unit? Average:    A total cost will decrease.        
+-> B fixed cost will decrease.            
+--> C variable cost will remain fairly constant.        
+
+13 Which of the following factors is most likely to affect the pricing of a service?           
+--> A Production costs         
+-> B Average age of the workforce           
+C Availability of complementary products         
+
+14 An industry dominated by a small number of large companies is most likely a(n):            
+A monopoly.          
+-> B oligopoly.          
+C perfect competition.       
