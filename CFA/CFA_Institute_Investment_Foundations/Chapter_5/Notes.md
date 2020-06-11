@@ -17,4 +17,5 @@ j Explain limitations of monetary policy and fiscal policy.
 
 
 Introduction     
-GROSS DOMESTIC PRODUCT AND THE BUSINESS CYCLE - In Progress.
+GROSS DOMESTIC PRODUCT AND THE BUSINESS CYCLE - In Progress.     
+    2.1 Economic Growth    
