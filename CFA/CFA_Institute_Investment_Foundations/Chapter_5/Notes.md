@@ -1,5 +1,8 @@
 CHAPTER 5 MACROECONOMICS
 
+Chapter Review Questions : 
+
+
 LEARNING OUTCOMES :     
 After completing this chapter, you should be able to do the following:     
 a Describe why macroeconomic considerations are important to an investment
