@@ -27,6 +27,10 @@ Introduction
 
 CHAPTER REVIEW QUESTIONS       
 
+Total Questions : 22            
+COrrect : 21          
+Incorrect : 1       
+
 1 Gross domestic product (GDP) is best defined as the total:      
 -> A output of a country.     
 B output of a country per person.        
@@ -130,7 +134,7 @@ C Decreases in government spending
 21 Which of the following best describes a limitation of monetary policy?            
 A Crowding out of private borrowers       
 -> B Long time lags until implementation        
-C Unexpected responses from consumers           
+---> C Unexpected responses from consumers           
 
 22 Time lags until policies affect the economy are most likely associated with:           
 A only fiscal policy.       
