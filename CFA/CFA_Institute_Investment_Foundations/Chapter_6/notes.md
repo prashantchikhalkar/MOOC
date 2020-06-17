@@ -13,3 +13,5 @@ f Describe factors affecting the value of a currency;
 g Describe how to assess the relative strength of currencies;        
 h Describe foreign exchange rate quotes;       
 i Compare spot and forward markets.         
+
+2 IMPORTS AND EXPORTS - In Progress.    
