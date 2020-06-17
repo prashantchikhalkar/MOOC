@@ -14,4 +14,5 @@ g Describe how to assess the relative strength of currencies;
 h Describe foreign exchange rate quotes;       
 i Compare spot and forward markets.         
 
-2 IMPORTS AND EXPORTS - In Progress.    
+2 IMPORTS AND EXPORTS - Done.    
+3 COMPARATIVE ADVANTAGES AMONG COUNTRIES - Done     
