@@ -17,4 +17,5 @@ i Compare spot and forward markets.
 2 IMPORTS AND EXPORTS - Done.    
 3 COMPARATIVE ADVANTAGES AMONG COUNTRIES - Done     
 4 Balance of Payments - Done      
-5 FOREIGN EXCHANGE RATE SYSTEMS     
+5 FOREIGN EXCHANGE RATE SYSTEMS - Done         
+6 CURRENCY VALUES      
