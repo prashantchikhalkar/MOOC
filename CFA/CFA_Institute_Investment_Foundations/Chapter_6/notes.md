@@ -19,4 +19,6 @@ i Compare spot and forward markets.
 4 Balance of Payments - Done      
 5 FOREIGN EXCHANGE RATE SYSTEMS - Done         
 6 CURRENCY VALUES - Done    
-7 FOREIGN EXCHANGE MARKET - In Progress.       
+7 FOREIGN EXCHANGE MARKET - In Progress.      
+    7.1 Foreign Exchange Rate Quotes     
+    
