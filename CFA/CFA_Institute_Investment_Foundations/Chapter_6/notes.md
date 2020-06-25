@@ -21,4 +21,4 @@ i Compare spot and forward markets.
 6 CURRENCY VALUES - Done    
 7 FOREIGN EXCHANGE MARKET - In Progress.      
     7.1 Foreign Exchange Rate Quotes     
-    
+    7.2 Spot and Forward Markets      
