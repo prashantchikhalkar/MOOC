@@ -17,4 +17,5 @@ l Explain risks of investing in debt securities;
 m Define a credit spread.        
 
 1 INTRODUCTION     
-2 FEATURES OF DEBT SECURITIES
+2 FEATURES OF DEBT SECURITIES - Done.     
+3 SENIORITY RANKING 
