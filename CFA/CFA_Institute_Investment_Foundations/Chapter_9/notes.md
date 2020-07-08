@@ -19,4 +19,5 @@ m Define a credit spread.
 1 INTRODUCTION     
 2 FEATURES OF DEBT SECURITIES - Done.     
 3 SENIORITY RANKING - Done.     
-4 TYPES OF BONDS 
+4 TYPES OF BONDS - Done.           
+5 BONDS WITH EMBEDDED PROVISIONS          
