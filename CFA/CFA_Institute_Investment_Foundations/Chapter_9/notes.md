@@ -25,7 +25,8 @@ m Define a credit spread.
 7 VALUATION OF DEBT SECURITIES - Done.          
 8 RISKS OF INVESTING IN DEBT SECURITIES - Done.              
 
-CHAPTER REVIEW QUESTIONS : 16/21                          
+CHAPTER REVIEW QUESTIONS : 16/21         
+Needs review.                        
 
 1 Sovereign bonds are issued by:
 A companies.
