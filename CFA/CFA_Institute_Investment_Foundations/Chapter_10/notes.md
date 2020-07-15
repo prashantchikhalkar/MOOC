@@ -8,4 +8,5 @@ d Describe approaches to valuing common shares;
 e Describe company actions that affect the company’s shares outstanding.           
 
 1 INTRODUCTION      
-2 FEATURES OF EQUITY SECURITIES - In Progress.      
+2 FEATURES OF EQUITY SECURITIES - Done.      
+3 TYPES OF EQUITY SECURITIES - In Progress.          
