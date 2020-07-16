@@ -11,4 +11,5 @@ e Describe company actions that affect the company’s shares outstanding.
 2 FEATURES OF EQUITY SECURITIES - Done.      
 3 TYPES OF EQUITY SECURITIES - Done.                
 4 RISK AND RETURN OF EQUITY AND DEBT SECURITIES - Done.       
-5 VALUATION OF COMMON SHARES - In Progress.           
+5 VALUATION OF COMMON SHARES - Done.           
+6 COMPANY ACTIONS THAT AFFECT EQUITY OUTSTANDING - In Progress.
