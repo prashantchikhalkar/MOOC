@@ -13,3 +13,5 @@ e Describe company actions that affect the company’s shares outstanding.
 4 RISK AND RETURN OF EQUITY AND DEBT SECURITIES - Done.       
 5 VALUATION OF COMMON SHARES - Done.           
 6 COMPANY ACTIONS THAT AFFECT EQUITY OUTSTANDING - In Progress.
+
+Mock test
