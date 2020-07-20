@@ -8,3 +8,5 @@ Mock Exam 1 : 72/100.
 Mock Exam 2 : 80/100.      
 
 Final Exam : Passed.     
+
+TBD : Review Course material and upload notes for remaining chapters.
