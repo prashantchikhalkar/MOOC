@@ -11,12 +11,12 @@ a) codecademy
 
 b) coursera
 
-    i) Bitcoin-and-Cryptocurrency-Technologies-by-Princeton-University
-    ii) Science of well being.
+    i) Bitcoin-and-Cryptocurrency-Technologies-by-Princeton-University - Left unfinished.                 
+    ii) Science of well being. - Completed.                           
 
 c) LinkedIn Learning
 
-    i) advanced-linux-the-linux-kernel
+    i) advanced-linux-the-linux-kernel - Completed
 
 -> Self 
     -> LxContainersVirtualization
