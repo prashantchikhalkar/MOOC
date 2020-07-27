@@ -7,3 +7,5 @@ Targeted completion - Aug 30 2020.
 Tatal Sections 15      
 
 Appx. Duration 6 weeks.         
+
+Setup Env.
